@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['SamanthaYoong/gitprofile', 'SamanthaYoong/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['SamanthaYoong/Google Analytics Project 1', 'SamanthaYoong/Google Ads Project 1', 'SamanthaYoong/Looker Studio','SamanthaYoong/Case Study 1'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Looker Studio',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -41,7 +41,7 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Google Ads',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of SamanthaYoong',
+    title: 'Google Analytics',
     description: '',
     imageURL: '',
   },
@@ -76,7 +76,7 @@ const CONFIG = {
     telegram: '',
     website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'samanthayoong2000@gmail.com',
   },
   resume: {
     fileUrl:
@@ -100,8 +100,8 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'Shopee',
+      position: 'Marketing Executive',
       from: 'September 2021',
       to: 'Present',
       companyLink: 'https://example.com',
@@ -116,7 +116,7 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
+      name: 'Google Ads',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com',
@@ -124,7 +124,7 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
+      institution: 'Taylor's University',
       degree: 'Degree',
       from: '2015',
       to: '2019',
