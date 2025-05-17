@@ -13,19 +13,19 @@ const CONFIG = {
   projects: {
     github: {
       display: true, // Display GitHub projects?
-      header: 'My Projects',
+      header: 'GitHub Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 8, // How many projects to display.
+        limit: 1, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: ['SamanthaYoong/Google Analytics Project 1', 'SamanthaYoong/Google Ads Project 1', 'SamanthaYoong/Looker Studio','SamanthaYoong/Case Study 1'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['SamanthaYoong/Google Analytics Project 1', 'SamanthaYoong/Google Ads Project 1', 'SamanthaYoong/Looker Studio','SamanthaYoong/Case Study 1'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Looker Studio',
+          title: 'Looker Studio Project 1',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -41,7 +41,23 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'Google Ads',
+          title: 'Google Ads Project 1',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
+        },
+        {
+          title: 'Google Analytic Project 1',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
+        },
+        {
+          title: 'Google Ads Project 1',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
