@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'SamanthaYoong/samanthayoong.github.io', // Your GitHub org/user name. (This is the only required config)
+    username: 'SamanthaYoong', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['SamanthaYoong/gitprofile', 'SamanthaYoong/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of SamanthaYoong/samanthayoong.github.io',
+    title: 'Portfolio of SamanthaYoong',
     description: '',
     imageURL: '',
   },
@@ -159,7 +159,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'SamanthaYoong', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
@@ -235,7 +235,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/SamanthaYoong/samanthayoong.github.io"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
