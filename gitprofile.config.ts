@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Samantha Yoong',
+    title: 'Portfolio of SamanthaYoong',
     description: '',
     imageURL: '',
   },
