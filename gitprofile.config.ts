@@ -124,7 +124,7 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Taylor's University',
+      institution: 'Taylor University',
       degree: 'Degree',
       from: '2015',
       to: '2019',
