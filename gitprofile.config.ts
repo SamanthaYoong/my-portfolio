@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of SamanthaYoong',
+    title: 'Portfolio of Ariful Alam',
     description: '',
     imageURL: '',
   },
