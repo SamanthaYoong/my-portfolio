@@ -68,7 +68,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Samantha Yoong',
+    title: 'SamanthaYoong',
     description: '',
     imageURL: '',
   },
