@@ -29,16 +29,16 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'Tableau/Looker Studio Project',
+      header: 'Tableau & Looker Studio Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Looker Studio Project 1',
+          title: 'Netflix – Pricing Tier LTV Optimization',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://drive.google.com/file/d/1JWLe522OEXj4g-z-LeHuaCio_XDRRc0u/view?usp=sharing',
+          link: 'https://drive.google.com/drive/folders/1vDo8wBTqYapB1InuwQ7bUNhMYDu_sGoY?usp=drive_link',
         },
         {
           title: 'Google Ads Project 1',
