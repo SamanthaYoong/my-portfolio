@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Demonstrated how strategic price-feature bundling in a simulated Netflix A/B test increased user LTV by ~50% with strong upgrade behaviour and low churn risk.',
           imageUrl:
-            'https://drive.google.com/file/d/1-Iw0X-BGT5P51JiI5iiRcb26dP87IbND/view?usp=drive_link',
+            'https://drive.google.com/file/d/1-Iw0X-BGT5P51JiI5iiRcb26dP87IbND/view?usp=sharing',
           link: 'https://github.com/SamanthaYoong/Netflix_Pricing_Tier_LTV_Experiment-Merged_Test_of_Feature_Price_Impact',
         },
         {
