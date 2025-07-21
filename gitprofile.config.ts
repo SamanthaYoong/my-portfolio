@@ -64,6 +64,14 @@ const CONFIG = {
             'https://www.freepik.com/icon/analysis_6604210#fromView=search&page=1&position=3&uuid=c19c4899-f3de-4756-bb3c-73b6a9491c93',
           link: 'https://www.freepik.com/icon/analysis_6604210#fromView=search&page=1&position=3&uuid=c19c4899-f3de-4756-bb3c-73b6a9491c93',
         },
+        {
+          title: 'Google-Ads-Budget-Optimization',
+          description:
+            'Uncovered YouTube as a high ROI acquisition channel through cost efficiency and revenue-per-impression analysis, leading  to a 22% budget reallocation toward high-spending customer.',
+          imageUrl:
+            'https://www.freepik.com/icon/google_5968863#fromView=keyword&page=1&position=3',
+          link: 'https://github.com/SamanthaYoong/Google-Ads-Budget-Optimization',
+        },
       ],
     },
   },
