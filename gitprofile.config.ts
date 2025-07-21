@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Netflix – Pricing Tier LTV Optimization',
+          title: 'Netflix – Pricing Tier LTV Optimisation',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Demonstrated how strategic price-feature bundling in a simulated Netflix A/B test increased user LTV by ~50% with strong upgrade behaviour and low churn risk.',
           imageUrl:
             'https://drive.google.com/file/d/1JWLe522OEXj4g-z-LeHuaCio_XDRRc0u/view?usp=sharing',
-          link: 'https://drive.google.com/drive/folders/1vDo8wBTqYapB1InuwQ7bUNhMYDu_sGoY?usp=drive_link',
+          link: 'https://github.com/SamanthaYoong/Netflix_Pricing_Tier_LTV_Experiment-Merged_Test_of_Feature_Price_Impact',
         },
         {
           title: 'Google Ads Project 1',
