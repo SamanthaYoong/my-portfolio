@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'Tableau & Looker Studio Projects',
+      header: 'Product & Marketing Analytics Case Studies',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -37,16 +37,16 @@ const CONFIG = {
           description:
             'Demonstrated how strategic price-feature bundling in a simulated Netflix A/B test increased user LTV by ~50% with strong upgrade behaviour and low churn risk.',
           imageUrl:
-            'https://www.iconfinder.com/icons/4375011/logo_netflix_icon',
+            'https://www.freepik.com/icon/netflix_5977590#fromView=search&page=1&position=1&uuid=4f5989f3-f337-4488-b910-ba3238c73dbe',
           link: 'https://github.com/SamanthaYoong/Netflix_Pricing_Tier_LTV_Experiment-Merged_Test_of_Feature_Price_Impact',
         },
         {
-          title: 'Google Ads Project 1',
+          title: 'A/B Test: E-commerce Livestreaming User Participation Optimisation',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Built an A/B Test case study to demonstrate product thinking and data analysis, revealing that UX tweaks alone were insufficient to overcome pricing perception barriers.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://www.freepik.com/icon/ecommerce_3445820#fromView=keyword&page=1&position=11&uuid=fdca9893-0d6b-4967-a1cb-edae75f82499',
+          link: 'https://github.com/SamanthaYoong/AB_Test_Ecommerce_Livestreaming_User_Participation_Optimization',
         },
         {
           title: 'Google Analytic Project 1',
