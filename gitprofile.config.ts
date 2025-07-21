@@ -62,7 +62,7 @@ const CONFIG = {
             'Identified the biggest funnel drop-off between activation and conversion (~60%), revealing feature gaps and UX friction as key blockers to monetization',
           imageUrl:
             'https://www.freepik.com/icon/analysis_6604210#fromView=search&page=1&position=3&uuid=c19c4899-f3de-4756-bb3c-73b6a9491c93',
-          link: 'https://www.freepik.com/icon/analysis_6604210#fromView=search&page=1&position=3&uuid=c19c4899-f3de-4756-bb3c-73b6a9491c93',
+          link: 'https://public.tableau.com/views/FunnelRetentionofaSaaSProduct/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link',
         },
         {
           title: 'Google-Ads-Budget-Optimization',
