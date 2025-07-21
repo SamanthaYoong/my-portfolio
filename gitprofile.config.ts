@@ -89,7 +89,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'samantha-yoong',
+    linkedin: 'samantha-yoong-8551b4226',
     website: 'https://samanthayoong.github.io/my-portfolio/',
     email: 'samanthayoong2000@gmail.com',
   },
