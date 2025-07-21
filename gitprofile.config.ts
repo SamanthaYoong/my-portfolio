@@ -72,6 +72,14 @@ const CONFIG = {
             'https://www.freepik.com/icon/google_5968863#fromView=keyword&page=1&position=3',
           link: 'https://github.com/SamanthaYoong/Google-Ads-Budget-Optimization',
         },
+        {
+          title: 'Regional Sales Dashboards',
+          description:
+            'Uncovered margin loss in popular regions and furniture categories through granular profitability analysis driving decisions to reallocate inventory toward high-performing tech products and re-evaluate discounting and shipping cost strategies.',
+          imageUrl:
+            'https://www.freepik.com/icon/shop_17509366#fromView=keyword&page=1&position=12&uuid=a2a54a53-0888-4023-a99f-e2bf66fe8f0c',
+          link: 'https://github.com/SamanthaYoong/Superstore_Sale_Analysis',
+        },
       ],
     },
   },
