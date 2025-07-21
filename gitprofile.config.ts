@@ -136,7 +136,7 @@ const CONFIG = {
     },
     {
       institution: 'Self-Learning Path',
-      degree: 'SQL (Udacity), Meta Ads (Blueprint), Statistics & Economics (Khan Academy)'
+      degree: 'SQL (Udacity), Meta Ads (Blueprint), Statistics & Economics (Khan Academy)',
       from: '2024',
       to: '2025',
     },
