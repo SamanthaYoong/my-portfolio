@@ -13,7 +13,7 @@ const CONFIG = {
   projects: {
     github: {
       display: true, // Display GitHub projects?
-      header: 'Case Studies',
+      header: 'Selected Case Studies',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'Product & Marketing Analytics Case Studies',
+      header: 'Data & Product Analytics Case Studies',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Demonstrated how strategic price-feature bundling in a simulated Netflix A/B test increased user LTV by ~50% with strong upgrade behaviour and low churn risk.',
           imageUrl:
-            'https://www.freepik.com/icon/netflix_5977590#fromView=search&page=1&position=1&uuid=4f5989f3-f337-4488-b910-ba3238c73dbe',
+            'https://share.google/images/O9g3xp3AlirUjE2Vs',
           link: 'https://github.com/SamanthaYoong/Netflix_Pricing_Tier_LTV_Experiment-Merged_Test_of_Feature_Price_Impact',
         },
         {
